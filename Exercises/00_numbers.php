@@ -1,9 +1,7 @@
 <?php
-$number="-1.5";
-$result=abs($number."<br>");
-echo $result;
+$num="The absolute number of -1.5 is  ".abs(-1.5)."<br>";
+$num1="The absolute number of 32 is  ". abs(32)."<br>";
 
-$number2="32";
-$result=abs($number2."<br>");
-echo $result;
+echo $num;
+echo $num1;
 ?>
