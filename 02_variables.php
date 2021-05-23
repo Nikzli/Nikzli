@@ -33,12 +33,12 @@ echo $ismarried;"<br>";//1
 echo $address;"<br>";//
 
 //Print the variables
-echo gettype($full_name); "<br>";
-echo gettype($age); "<br>";
-echo gettype($city); "<br>";
-echo gettype($height); "<br>";
-echo gettype($ismarried); "<br>";
-echo gettype($address); "<br>";
+echo gettype($full_name). "<br>";
+echo gettype($age). "<br>";
+echo gettype($city). "<br>";
+echo gettype($height). "<br>";
+echo gettype($ismarried). "<br>";
+echo gettype($address). "<br>";
 
 // Print the variables(Whole)
 //var_dump($full_name)
