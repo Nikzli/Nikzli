@@ -16,12 +16,12 @@ Resource
  False=>nothing
 */
 //Declare variable
-$full_name="Alex Fernando";//String
-$age=18;//Integer
-$city="Colombo";//String
-$height=5.1;//Float
-$ismarried= True;//Boolean
-$address= Null;
+$full_name="Alex Fernando"."<br>";//String
+$age=18.."<br>";//Integer
+$city="Colombo"."<br>";//String
+$height=5.1."<br>";//Float
+$ismarried= True."<br>";//Boolean
+$address= Null."<br>";
 
 //Print the variables
 
