@@ -17,8 +17,8 @@ Resource
 */
 //Declare variable
 $last_name="Fernando";
-$full_name="Alex " . $last_name;//String
-$full_name2='John ' . $last_name . ". I'm from Colombo.";
+$full_name="Alex " . $last_name."<br>";//String
+$full_name2='John ' . $last_name . ". I'm from Colombo."."<br>";
 //$age=18;//Integer
 //$city="Colombo";//String
 //$height=5.1;//Float
@@ -28,7 +28,7 @@ $full_name2='John ' . $last_name . ". I'm from Colombo.";
 //Print the variables
 
 echo $full_name; "<br>"; //Alex Fernando
-echo $full_name2;
+echo $full_name2;"<br>";
 //echo $age;"<br>";//18
 //echo $city;"<br>";//Colombo
 //echo $height;"<br>";//5.1
