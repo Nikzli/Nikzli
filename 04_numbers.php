@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <?php
 //Create numbers
 $number = 13;
@@ -50,7 +50,4 @@ echo "round = " .round(5.8)."<br>";
 echo "floor = " .floor(5.8)."<br>";
 echo "ceil = " .ceil(5.8)."<br>";
 
-=======
-
->>>>>>> 3a4f4d96982f0c5e65af7d8f0fc8341874c03a21
 ?>
