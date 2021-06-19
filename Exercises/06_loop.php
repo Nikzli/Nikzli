@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?php
 //variable for sum 
 $sum =0;
@@ -20,4 +21,3 @@ for($count =0 ; $count <20; $count++){
     $sum= $sum + $count;
   }
   echo "the sum of the numbers between 0 to 20 is ". $sum;
-?>
